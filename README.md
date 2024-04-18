@@ -3,7 +3,7 @@
 
 Консольная утилита для подсчёта статистики авторов git репозитория.
 
-✗ gitfame --repository=. --extensions='.go,.md' --order-by=lines
+✗ gitfame --repository=. --extensions='.go,.md' --order-by=lines \newline
 Name                   Lines Commits Files
 Joe Tsai               12154 92      49
 colinnewell            130   1       1
