@@ -3,6 +3,7 @@
 
 Консольная утилита для подсчёта статистики авторов git репозитория.
 
+```
 ✗ gitfame --repository=. --extensions='.go,.md' --order-by=lines \newline
 Name                   Lines Commits Files
 Joe Tsai               12154 92      49
@@ -21,6 +22,7 @@ Ernest Galbrun         3     1       1
 Ross Light             2     1       1
 Chris Morrow           1     1       1
 Fiisio                 1     1       1
+```
 
 Флаги
 
